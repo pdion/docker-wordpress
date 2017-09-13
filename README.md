@@ -21,8 +21,16 @@
     
 ** Installation **
 
-        
+    Make sure all files in src/ are readable/writable by the www-data user.
     Install wordpress by browsing to: localhost:8080/wp-admin.
     Use mysql as hostname for the database.
     Note the password you used for future reference.
+    
+    cd to src/ and run composer install
+    cd to src/wp-content/themes and run git clone https://github.com/fgms/wp-theme-twig-child.git 
+
+
+     
+    
+    
     

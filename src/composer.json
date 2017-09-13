@@ -1,0 +1,18 @@
+{
+  "repositories": [
+    {
+      "type" : "composer",
+      "url" : "https://wpackagist.org"
+    }
+  ],
+  "require": {
+    "composer/installers": "~1.0",
+    "fgms/wp-theme-installer": "@dev",
+    "fgms/wp-theme-twig" : "@dev",
+    "fgms/contact-form-7-web-communications" : "@dev",
+    "fgms/wp-plugin-directory": "@dev",
+    "sturple/wordpress-site-check" : "@dev",
+    "sturple/wp-plugin-cpt" : "dev-master",
+    "twig/twig" : "1.34.4"
+  }
+}

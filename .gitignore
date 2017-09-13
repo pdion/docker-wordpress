@@ -1,3 +1,13 @@
 .idea
 data/db/mysql
 log/apache/error.log
+
+composer.lock
+vendor/
+wp-content/plugins/contact-form-7-web-communications/*
+wp-content/plugins/wordpress-site-check/*
+wp-content/plugins/wp-plugin-cpt/*
+wp-content/plugins/wp-plugin-directory/*
+wp-content/plugins/wpcf7-email-templates/*
+wp-content/themes/wp-theme-twig/*
+
