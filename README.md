@@ -27,6 +27,7 @@
     Note the password you used for future reference.
     
     cd to src/ and run composer install
+    cd to src/plugins/wp-less and run composer require
     cd to src/wp-content/themes and run git clone https://github.com/fgms/wp-theme-twig-child.git 
 
 
